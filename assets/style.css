@@ -32,7 +32,7 @@ header h1 {
 
     color: #ffffff;
 
-    padding-bottom: 20px;
+    padding-bottom: 35px;
 }
 
 header p {
@@ -53,7 +53,60 @@ header p {
 #buttons {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 15px;
+    
+    
+    
+
+}
+
+a {
+    text-decoration: none;
+}
+
+#whiteButton {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    height: 52px;
+    width: 100%;
+
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+
+    align-items: center;
+    text-align: center;
+}
+
+button {
+    background-color: #23272A;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    height: 52px;
+    width: 100%;
+
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+
+
+    align-items: center;
+    text-align: center;
 }
 
 main {
