@@ -1,22 +1,67 @@
 @import url(./reset.css);
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Open+Sans:wght@400;800&display=swap');
+
 
 body {
     background-color: white;
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 428px;
     grid-template-rows: 506px repeat(4, 1fr) 140px;
     grid-template-areas: 
     "header" "main" "main" "main" "main" "footer";
 }
 
 header{
-    background-image: url(images/HeaderBackgroundCel.png) ;
-    object-fit: fill;
     grid-area: header;
+
+    background-image: url(images/HeaderBackgroundCel.png) ;
+    background-size: contain;
+
+    padding: 65px 25px 10px 25px;
+}
+
+header h1 {
+    width: 276px;
+    height: 64px;
+
+    font-family: 'Luckiest Guy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+
+    color: #ffffff;
+
+    padding-bottom: 20px;
+}
+
+header p {
+    width: 381px;
+    height: 132px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+
+    color: #FFFFFF;
+
+    padding-bottom: 10px;
+}
+
+#buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 main {
     grid-area: main;
+}
+
+main figure img{
+    
 }
 
 footer {
