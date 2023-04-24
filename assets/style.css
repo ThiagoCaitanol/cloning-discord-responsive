@@ -1,0 +1,24 @@
+@import url(./reset.css);
+
+body {
+    background-color: white;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 506px repeat(4, 1fr) 140px;
+    grid-template-areas: 
+    "header" "main" "main" "main" "main" "footer";
+}
+
+header{
+    background-image: url(images/HeaderBackgroundCel.png) ;
+    object-fit: fill;
+    grid-area: header;
+}
+
+main {
+    grid-area: main;
+}
+
+footer {
+    grid-area: footer;
+}
