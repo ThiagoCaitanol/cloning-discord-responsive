@@ -222,7 +222,6 @@ main p {
     display: flex;
     flex-direction: column;
     width: 100%;
-    text-align: ;
     justify-content: center;
     align-items: center;
 }
