@@ -1,7 +1,10 @@
-<h1>Projeto: Landing Page do Discord</h1>
-<p>Este projeto é uma landing page do aplicativo Discord, desenvolvido com foco em responsividade utilizando a metodologia Mobile First. A página foi projetada para ser intuitiva tanto no desktop quanto no celular, e utiliza técnicas como layout flexível e breakpoints para se adaptar a diferentes tamanhos de tela.</p><hr>
 <p align="center">
-  <img src="figma.jpg" alt="Exemplo de projeto" />
+  <img src="./assets/images/readme_images/discord.jpg" alt="Exemplo de projeto" />
+</p>
+<h1 align="center">Landing Page do Discord</h1>
+<p align="center">Este projeto é uma landing page do aplicativo Discord, desenvolvido com foco em responsividade utilizando a metodologia Mobile First. A página foi projetada para ser intuitiva tanto no desktop quanto no celular, e utiliza técnicas como layout flexível e breakpoints para se adaptar a diferentes tamanhos de tela.</p><hr>
+<p align="center">
+  <img src="./assets/images/readme_images/figma.png" alt="Exemplo de projeto" />
 </p>
 
 <h2>Tecnologias Utilizadas</h2>
