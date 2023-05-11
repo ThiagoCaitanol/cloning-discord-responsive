@@ -24,6 +24,7 @@
 <ol>Clone este repositório em seu computador:</ol>
 <pre><code class="language-bash">
   git clone https://github.com/ThiagoCaitanol/cloning-discord-responsive
+ </code></pre>
 <ol>Abra o arquivo index.html no navegador de sua preferência.</ol>
 
 <h2>Contribuição</h2>
