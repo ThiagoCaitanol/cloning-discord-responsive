@@ -1,7 +1,10 @@
-<h1>Projeto: Landing Page do Discord</h1>
-<p>Este projeto é uma landing page do aplicativo Discord, desenvolvido com foco em responsividade utilizando a metodologia Mobile First. A página foi projetada para ser intuitiva tanto no desktop quanto no celular, e utiliza técnicas como layout flexível e breakpoints para se adaptar a diferentes tamanhos de tela.</p><hr>
 <p align="center">
-  <img src="figma.jpg" alt="Exemplo de projeto" />
+  <img src="./assets/images/readme_images/discord.jpg" alt="Exemplo de projeto" />
+</p>
+<h1 align="center">Landing Page do Discord</h1>
+<p align="center">Este projeto é uma landing page do aplicativo Discord, desenvolvido com foco em responsividade utilizando a metodologia Mobile First. A página foi projetada para ser intuitiva tanto no desktop quanto no celular, e utiliza técnicas como layout flexível e breakpoints para se adaptar a diferentes tamanhos de tela.</p>
+<p align="center">
+  <img src="./assets/images/readme_images/figma.jpg" alt="Exemplo de projeto" />
 </p>
 
 <h2>Tecnologias Utilizadas</h2>
@@ -53,7 +56,7 @@ Contribuições são bem-vindas! Se você deseja contribuir, siga as instruçõe
 <ol>Abra um pull request no repositório original.</ol>
 
 <h2>Autor</h2>
-<p>Este projeto foi criado por Thiago Caitano como parte de um estudo pessoal em CSS e um desafio para plataforma DIO.</p>
+<p>Este projeto foi criado por Thiago Caitano como parte de um estudo pessoal em CSS e um desafio para plataforma DIO. Segue o link para o figma do projeto: https://www.figma.com/file/NRBYrG5d4DSzObv7dpTqoM/Desafio-Responsividade---DIO?type=design&node-id=0-1&t=OcxLWDreL4Lw8bcY-0</p>
 
 <h2>Licença</h2>
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
